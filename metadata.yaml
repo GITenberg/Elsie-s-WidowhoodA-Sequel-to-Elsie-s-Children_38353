@@ -1,0 +1,35 @@
+_repo: Elsie-s-WidowhoodA-Sequel-to-Elsie-s-Children_38353
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38353-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Cousin Martha
+    - Farquharson, Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: ''
+gutenberg_issued: '2011-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Domestic fiction'
+title: 'Elsie''s Widowhood
+
+  A Sequel to Elsie''s Children'
+url: http://www.gutenberg.org/ebooks/38353
